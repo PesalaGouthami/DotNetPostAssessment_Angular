@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pesala.gouthami\\DotNetPostAssessment\\ResumeTrackingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{590CECC6-5CA2-42AB-BC85-39CF66F5087F}|ResumeTrackingSystem\\ResumeTrackingSystemAPI.csproj|c:\\users\\pesala.gouthami\\dotnetpostassessment\\resumetrackingsystem\\resumetrackingsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{590CECC6-5CA2-42AB-BC85-39CF66F5087F}|ResumeTrackingSystem\\ResumeTrackingSystemAPI.csproj|solutionrelative:resumetrackingsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{590CECC6-5CA2-42AB-BC85-39CF66F5087F}|ResumeTrackingSystem\\ResumeTrackingSystemAPI.csproj|c:\\users\\pesala.gouthami\\dotnetpostassessment\\resumetrackingsystem\\resumetrackingsystem\\model\\employeedataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{590CECC6-5CA2-42AB-BC85-39CF66F5087F}|ResumeTrackingSystem\\ResumeTrackingSystemAPI.csproj|solutionrelative:resumetrackingsystem\\model\\employeedataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{590CECC6-5CA2-42AB-BC85-39CF66F5087F}|ResumeTrackingSystem\\ResumeTrackingSystemAPI.csproj|c:\\users\\pesala.gouthami\\dotnetpostassessment\\resumetrackingsystem\\resumetrackingsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{590CECC6-5CA2-42AB-BC85-39CF66F5087F}|ResumeTrackingSystem\\ResumeTrackingSystemAPI.csproj|solutionrelative:resumetrackingsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{590CECC6-5CA2-42AB-BC85-39CF66F5087F}|ResumeTrackingSystem\\ResumeTrackingSystemAPI.csproj|c:\\users\\pesala.gouthami\\dotnetpostassessment\\resumetrackingsystem\\resumetrackingsystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{590CECC6-5CA2-42AB-BC85-39CF66F5087F}|ResumeTrackingSystem\\ResumeTrackingSystemAPI.csproj|solutionrelative:resumetrackingsystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{590CECC6-5CA2-42AB-BC85-39CF66F5087F}|ResumeTrackingSystem\\ResumeTrackingSystemAPI.csproj|c:\\users\\pesala.gouthami\\dotnetpostassessment\\resumetrackingsystem\\resumetrackingsystem\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{590CECC6-5CA2-42AB-BC85-39CF66F5087F}|ResumeTrackingSystem\\ResumeTrackingSystemAPI.csproj|solutionrelative:resumetrackingsystem\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{590CECC6-5CA2-42AB-BC85-39CF66F5087F}|ResumeTrackingSystem\\ResumeTrackingSystemAPI.csproj|c:\\users\\pesala.gouthami\\dotnetpostassessment\\resumetrackingsystem\\resumetrackingsystem\\model\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{590CECC6-5CA2-42AB-BC85-39CF66F5087F}|ResumeTrackingSystem\\ResumeTrackingSystemAPI.csproj|solutionrelative:resumetrackingsystem\\model\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{590CECC6-5CA2-42AB-BC85-39CF66F5087F}|ResumeTrackingSystem\\ResumeTrackingSystemAPI.csproj|c:\\users\\pesala.gouthami\\dotnetpostassessment\\resumetrackingsystem\\resumetrackingsystem\\model\\iemployeedataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{590CECC6-5CA2-42AB-BC85-39CF66F5087F}|ResumeTrackingSystem\\ResumeTrackingSystemAPI.csproj|solutionrelative:resumetrackingsystem\\model\\iemployeedataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{590CECC6-5CA2-42AB-BC85-39CF66F5087F}|ResumeTrackingSystem\\ResumeTrackingSystemAPI.csproj|c:\\users\\pesala.gouthami\\dotnetpostassessment\\resumetrackingsystem\\resumetrackingsystem\\model\\userdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{590CECC6-5CA2-42AB-BC85-39CF66F5087F}|ResumeTrackingSystem\\ResumeTrackingSystemAPI.csproj|solutionrelative:resumetrackingsystem\\model\\userdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{590CECC6-5CA2-42AB-BC85-39CF66F5087F}|ResumeTrackingSystem\\ResumeTrackingSystemAPI.csproj|c:\\users\\pesala.gouthami\\dotnetpostassessment\\resumetrackingsystem\\resumetrackingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{590CECC6-5CA2-42AB-BC85-39CF66F5087F}|ResumeTrackingSystem\\ResumeTrackingSystemAPI.csproj|solutionrelative:resumetrackingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{590CECC6-5CA2-42AB-BC85-39CF66F5087F}|ResumeTrackingSystem\\ResumeTrackingSystemAPI.csproj|c:\\users\\pesala.gouthami\\dotnetpostassessment\\resumetrackingsystem\\resumetrackingsystem\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{590CECC6-5CA2-42AB-BC85-39CF66F5087F}|ResumeTrackingSystem\\ResumeTrackingSystemAPI.csproj|solutionrelative:resumetrackingsystem\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pesala.gouthami\\DotNetPostAssessment\\ResumeTrackingSystem\\ResumeTrackingSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "ResumeTrackingSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\pesala.gouthami\\DotNetPostAssessment\\ResumeTrackingSystem\\ResumeTrackingSystem\\appsettings.json",
+              "RelativeToolTip": "ResumeTrackingSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-15T18:12:53.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserDetails.cs",
+              "DocumentMoniker": "C:\\Users\\pesala.gouthami\\DotNetPostAssessment\\ResumeTrackingSystem\\ResumeTrackingSystem\\Model\\UserDetails.cs",
+              "RelativeDocumentMoniker": "ResumeTrackingSystem\\Model\\UserDetails.cs",
+              "ToolTip": "C:\\Users\\pesala.gouthami\\DotNetPostAssessment\\ResumeTrackingSystem\\ResumeTrackingSystem\\Model\\UserDetails.cs",
+              "RelativeToolTip": "ResumeTrackingSystem\\Model\\UserDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:12:07.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\pesala.gouthami\\DotNetPostAssessment\\ResumeTrackingSystem\\ResumeTrackingSystem\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ResumeTrackingSystem\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\pesala.gouthami\\DotNetPostAssessment\\ResumeTrackingSystem\\ResumeTrackingSystem\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ResumeTrackingSystem\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T17:56:01.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\pesala.gouthami\\DotNetPostAssessment\\ResumeTrackingSystem\\ResumeTrackingSystem\\Model\\EmployeeDbContext.cs",
+              "RelativeDocumentMoniker": "ResumeTrackingSystem\\Model\\EmployeeDbContext.cs",
+              "ToolTip": "C:\\Users\\pesala.gouthami\\DotNetPostAssessment\\ResumeTrackingSystem\\ResumeTrackingSystem\\Model\\EmployeeDbContext.cs",
+              "RelativeToolTip": "ResumeTrackingSystem\\Model\\EmployeeDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T11:32:17.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\pesala.gouthami\\DotNetPostAssessment\\ResumeTrackingSystem\\ResumeTrackingSystem\\Model\\EmployeeDataAccess.cs",
+              "RelativeDocumentMoniker": "ResumeTrackingSystem\\Model\\EmployeeDataAccess.cs",
+              "ToolTip": "C:\\Users\\pesala.gouthami\\DotNetPostAssessment\\ResumeTrackingSystem\\ResumeTrackingSystem\\Model\\EmployeeDataAccess.cs",
+              "RelativeToolTip": "ResumeTrackingSystem\\Model\\EmployeeDataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T11:21:57.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\pesala.gouthami\\DotNetPostAssessment\\ResumeTrackingSystem\\ResumeTrackingSystem\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "ResumeTrackingSystem\\Model\\Employee.cs",
+              "ToolTip": "C:\\Users\\pesala.gouthami\\DotNetPostAssessment\\ResumeTrackingSystem\\ResumeTrackingSystem\\Model\\Employee.cs",
+              "RelativeToolTip": "ResumeTrackingSystem\\Model\\Employee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T11:05:04.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\pesala.gouthami\\DotNetPostAssessment\\ResumeTrackingSystem\\ResumeTrackingSystem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ResumeTrackingSystem\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\pesala.gouthami\\DotNetPostAssessment\\ResumeTrackingSystem\\ResumeTrackingSystem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ResumeTrackingSystem\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T10:42:24.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEmployeeDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\pesala.gouthami\\DotNetPostAssessment\\ResumeTrackingSystem\\ResumeTrackingSystem\\Model\\IEmployeeDataAccess.cs",
+              "RelativeDocumentMoniker": "ResumeTrackingSystem\\Model\\IEmployeeDataAccess.cs",
+              "ToolTip": "C:\\Users\\pesala.gouthami\\DotNetPostAssessment\\ResumeTrackingSystem\\ResumeTrackingSystem\\Model\\IEmployeeDataAccess.cs",
+              "RelativeToolTip": "ResumeTrackingSystem\\Model\\IEmployeeDataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T11:21:17.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pesala.gouthami\\DotNetPostAssessment\\ResumeTrackingSystem\\ResumeTrackingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "ResumeTrackingSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\pesala.gouthami\\DotNetPostAssessment\\ResumeTrackingSystem\\ResumeTrackingSystem\\Program.cs",
+              "RelativeToolTip": "ResumeTrackingSystem\\Program.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAQwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T10:49:09.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\pesala.gouthami\\DotNetPostAssessment\\ResumeTrackingSystem\\ResumeTrackingSystem\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ResumeTrackingSystem\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\pesala.gouthami\\DotNetPostAssessment\\ResumeTrackingSystem\\ResumeTrackingSystem\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ResumeTrackingSystem\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-05T10:46:11.406Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
